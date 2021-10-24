@@ -1,0 +1,10 @@
+@startuml
+
+class Application{
++CreateFile(): Generates a new file
++DeleteFile() : Deletes an existing file
++EditFile() : Edits an existing file
++SaveFile() : Saves an existing file
+}
+
+@enduml
